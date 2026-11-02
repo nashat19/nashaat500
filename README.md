@@ -1,2 +1,6 @@
-# nashaat500
-Generated and deployed with APEXGODLY Coder
+# LoanDesk Social
+
+نظام إدارة صفحات التواصل الاجتماعي لمكتب قروض — متعدد الصفحات، صندوق وارد موحّد، التقاط عملاء، تحليلات، صلاحيات.
+
+## التشغيل
+
